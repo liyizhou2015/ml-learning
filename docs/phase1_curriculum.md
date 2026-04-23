@@ -162,6 +162,7 @@
 | 2026-04-22 | Pandas 与可视化 | `notebooks/basics/02_pandas_visualization.ipynb` | ✅ |
 | 2026-04-23 | 简单线性回归 | `notebooks/basics/03_linear_regression.ipynb` | ✅ |
 | 2026-04-23 | 多元线性回归与特征工程 | `notebooks/basics/04_multivariate_regression.ipynb` | ✅ |
+| 2026-04-23 | 多项式回归与过拟合/欠拟合 | `notebooks/basics/05_polynomial_regression.ipynb` | ✅ |
 
 ---
 
